@@ -1,5 +1,5 @@
 
-# base-repository
+# easy-template
 
 [![npm version](https://img.shields.io/npm/v/easy-template.svg)](https://www.npmjs.com/package/easy-template)
 [![Build Status](https://img.shields.io/travis/LiuYueKai/easy-template/master.svg)](https://travis-ci.org/LiuYueKai/easy-template)
