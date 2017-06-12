@@ -1,6 +1,6 @@
 {
   "name": "easy-template",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A web templates library",
   "main": "index.js",
   "bin": {
